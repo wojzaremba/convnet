@@ -1,8 +1,16 @@
 % change properties of download to http://www.youtube.com/results?filters=hd%2C+long%2C+video&search_sort=video_view_count&search_query=national+geographic
-% check if viewed more than 10000
+% check if viewed more than 1000
 
 % XXX: Send files to Tom !!!
 % Sample from distant frames.
+% get reference frames
+
+
+% 1. Increase diversity
+% 2. Iterate over i-frames
+% 3. target of 1 mln of iamges
+% 4. hadoop or whatever you prefer to make it fast
+% 5. prevent from camera moving
 
 addpath(genpath('.'));
 global maindir
